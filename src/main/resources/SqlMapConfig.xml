@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+  <!-- &lt;!&ndash; q起别名&ndash;&gt;
+    <typeAliases>
+        <typeAlias type="com.qingfeng.domain.Account" alias="account"/>
+    </typeAliases>-->
+    <!--映射注解文件-->
+<!--
+    <mappers>
+&lt;!&ndash;        <package name="com.qingfeng.mapper"/>&ndash;&gt;
+        <mapper resource="com.qingfeng.mapper.AccountMapper.xml"/>
+    </mappers>
+
+-->
+
+
+</configuration>
